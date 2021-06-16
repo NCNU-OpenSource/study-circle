@@ -9,11 +9,6 @@ module.exports = {
       },
       {
         type: 'doc',
-        id: '2020-11-07',
-        label: '2020-11-07 Ch2, Ch4, Ch5'
-      },
-      {
-        type: 'doc',
         id: '2020-11-21',
         label: '2020-11-21 Ch6~8'
       },
@@ -63,5 +58,12 @@ module.exports = {
         label: '2021-04-24 Ch21'
       }
     ],
+    "Docker in Action 2nd edition": [
+      {
+        type: 'doc',
+        id: 'docker-1',
+        label: 'Chapter 1. Welcome to Docker'
+      }
+    ]
   },
 };
