@@ -63,7 +63,12 @@ module.exports = {
         type: 'doc',
         id: 'docker-1',
         label: 'Chapter 1. Welcome to Docker'
-      }
-    ]
+      },
+      {
+        type: 'doc',
+        id: 'docker-2',
+        label: 'Chapter 2. Running software in containers',
+      },
+    ],
   },
 };
