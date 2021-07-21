@@ -69,6 +69,11 @@ module.exports = {
         id: 'docker-2',
         label: 'Chapter 2. Running software in containers',
       },
+      {
+        type: 'doc',
+        id: 'docker-3',
+        label: 'Chapter 3. Software installation simplified',
+      },
     ],
   },
 };
