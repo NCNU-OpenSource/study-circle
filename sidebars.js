@@ -74,6 +74,11 @@ module.exports = {
         id: 'docker-3',
         label: 'Chapter 3. Software installation simplified',
       },
+      {
+        type: 'doc',
+        id: 'docker-4',
+        label: 'Chapter 5. Single-host networking',
+      },
     ],
   },
 };
