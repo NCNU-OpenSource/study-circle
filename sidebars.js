@@ -79,6 +79,11 @@ module.exports = {
         id: 'docker-4',
         label: 'Chapter 5. Single-host networking',
       },
+      {
+        type: 'doc',
+        id: 'docker-5',
+        label: 'Chapter 4. Working with storage and volumes',
+      },
     ],
   },
 };
