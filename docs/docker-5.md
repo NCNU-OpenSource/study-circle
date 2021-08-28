@@ -20,7 +20,7 @@ title: Chapter 4. Working with storage and volumes
 
 ## 錄影影片
 
-<iframe width="560" height="315" src="https://youtu.be/kwyIYh39vaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kwyIYh39vaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 聊天室紀錄
 
