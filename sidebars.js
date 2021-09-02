@@ -84,6 +84,11 @@ module.exports = {
         id: 'docker-5',
         label: 'Chapter 4. Working with storage and volumes',
       },
+      {
+        type: 'doc',
+        id: 'docker-6',
+        label: 'Chapter 6. Limiting risk with resource controls',
+      },
     ],
   },
 };
