@@ -89,6 +89,11 @@ module.exports = {
         id: 'docker-6',
         label: 'Chapter 6. Limiting risk with resource controls',
       },
+      {
+        type: 'doc',
+        id: 'docker-7',
+        label: 'Chapter 7. Packaging software in images',
+      },
     ],
   },
 };
