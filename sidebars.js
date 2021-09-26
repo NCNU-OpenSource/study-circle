@@ -94,6 +94,11 @@ module.exports = {
         id: 'docker-7',
         label: 'Chapter 7. Packaging software in images',
       },
+      {
+        type: 'doc',
+        id: 'docker-8',
+        label: 'Chapter 8. Building images automatically with Dockerfiles',
+      },
     ],
   },
 };
