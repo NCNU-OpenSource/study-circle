@@ -101,6 +101,11 @@ module.exports = {
       },
       {
         type: 'doc',
+        id: 'docker-9',
+        label: 'Chapter 9. Public and private software distribution',
+      },
+      {
+        type: 'doc',
         id: 'docker-10',
         label: 'Chapter 10. Image pipelines',
       },
