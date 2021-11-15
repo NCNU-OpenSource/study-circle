@@ -99,6 +99,16 @@ module.exports = {
         id: 'docker-8',
         label: 'Chapter 8. Building images automatically with Dockerfiles',
       },
+      {
+        type: 'doc',
+        id: 'docker-10',
+        label: 'Chapter 10. Image pipelines',
+      },
+      {
+        type: 'doc',
+        id: 'docker-11',
+        label: 'Chapter 11. Services with Docker and Compose',
+      },
     ],
   },
 };
