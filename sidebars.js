@@ -114,6 +114,11 @@ module.exports = {
         id: 'docker-11',
         label: 'Chapter 11. Services with Docker and Compose',
       },
+      {
+        type: 'doc',
+        id: 'docker-12',
+        label: 'Chapter 12. First-class configuration abstractions',
+      },
     ],
   },
 };
