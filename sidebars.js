@@ -120,5 +120,12 @@ module.exports = {
         label: 'Chapter 12. First-class configuration abstractions',
       },
     ],
+    'Kubernetes in Action': [
+      {
+        type: 'doc',
+        id: 'k8s-0',
+        label: 'Pre-Class microk8s Setup',
+      }
+    ]
   },
 };
