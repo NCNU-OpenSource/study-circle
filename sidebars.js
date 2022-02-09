@@ -123,9 +123,19 @@ module.exports = {
     'Kubernetes in Action': [
       {
         type: 'doc',
-        id: 'k8s-0',
+        id: 'k8s-1',
         label: 'Pre-Class microk8s Setup',
-      }
+      },
+      {
+        type: 'doc',
+        id: 'k8s-2',
+        label: 'Chapter 2. First steps with Docker and Kubernetes, Chapter 3. Pods: running containers in Kubernetes',
+      },
+      {
+        type: 'doc',
+        id: 'k8s-3',
+        label: 'Chapter 4 Introducing the Kubernetes API objects',
+      },
     ]
   },
 };
