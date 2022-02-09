@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7812],{2054:function(e){e.exports=JSON.parse('{"allTagsPath":"/study-circle/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/study-circle/blog/tags/hello"}')}}]);
