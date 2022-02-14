@@ -136,6 +136,11 @@ module.exports = {
         id: 'k8s-3',
         label: 'Chapter 4 Introducing the Kubernetes API objects',
       },
+      {
+        type: 'doc',
+        id: 'k8s-4',
+        label: 'Chapter 5. Running applications in Pods',
+      },
     ]
   },
 };
