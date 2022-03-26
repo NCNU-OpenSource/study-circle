@@ -141,6 +141,21 @@ module.exports = {
         id: 'k8s-4',
         label: 'Chapter 5. Running applications in Pods',
       },
+      {
+        type: 'doc',
+        id: 'k8s-5',
+        label: 'Chapter 6. Managing the lifecycle of the Pod’s containers',
+      },
+      {
+        type: 'doc',
+        id: 'k8s-6',
+        label: 'Chapter 7. Mounting storage volumes into the Pod’s containers',
+      },
+      {
+        type: 'doc',
+        id: 'k8s-7',
+        label: 'Chapter 8. Persisting application data with PersistentVolumes - 8.1 + 8.2',
+      },
     ]
   },
 };
