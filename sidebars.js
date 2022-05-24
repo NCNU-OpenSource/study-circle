@@ -156,6 +156,21 @@ module.exports = {
         id: 'k8s-7',
         label: 'Chapter 8. Persisting application data with PersistentVolumes - 8.1 + 8.2',
       },
+      {
+        type: 'doc',
+        id: 'k8s-8',
+        label: 'Chapter 8. Persisting application data with PersistentVolumes - 8.3 + 8.4',
+      },
+      {
+        type: 'doc',
+        id: 'k8s-9',
+        label: 'Chapter 9. Configuring applications using ConfigMaps, Secrets, and the Downward API',
+      },
+      {
+        type: 'doc',
+        id: 'k8s-10',
+        label: 'Chapter 10. Organizing objects using Namespaces, labels, and selectors',
+      },
     ]
   },
 };
